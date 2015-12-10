@@ -1,0 +1,10 @@
+D:\Study\02SharedMemoryA_CSharp\02SharedMemoryA_CSharp\bin\Debug\02SharedMemoryA_CSharp.exe
+D:\Study\02SharedMemoryA_CSharp\02SharedMemoryA_CSharp\bin\Debug\02SharedMemoryA_CSharp.pdb
+D:\Study\02SharedMemoryA_CSharp\02SharedMemoryA_CSharp\obj\Debug\ResolveAssemblyReference.cache
+D:\Study\02SharedMemoryA_CSharp\02SharedMemoryA_CSharp\obj\Debug\02SharedMemoryA_CSharp.exe
+D:\Study\02SharedMemoryA_CSharp\02SharedMemoryA_CSharp\obj\Debug\02SharedMemoryA_CSharp.pdb
+D:\Project\RS Client share\IPC\02SharedMemoryA_CSharp\02SharedMemoryA_CSharp\obj\Debug\02SharedMemoryA_CSharp.exe
+D:\Project\RS Client share\IPC\02SharedMemoryA_CSharp\02SharedMemoryA_CSharp\obj\Debug\02SharedMemoryA_CSharp.pdb
+D:\Project\RS Client share\IPC\02SharedMemoryA_CSharp\02SharedMemoryA_CSharp\bin\Debug\02SharedMemoryA_CSharp.exe
+D:\Project\RS Client share\IPC\02SharedMemoryA_CSharp\02SharedMemoryA_CSharp\bin\Debug\02SharedMemoryA_CSharp.pdb
+D:\Project\RS Client share\IPC\02SharedMemoryA_CSharp\02SharedMemoryA_CSharp\obj\Debug\ResolveAssemblyReference.cache
